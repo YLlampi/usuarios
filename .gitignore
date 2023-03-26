@@ -1,2 +1,5 @@
 # secret key
 secret.json
+
+# Data Base
+db.sqlite3
